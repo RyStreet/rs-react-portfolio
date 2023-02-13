@@ -1,5 +1,7 @@
 import React from "react"
 
 export default function Projects(){
-    <p>projects</p>
+    return( 
+    <h2>Projects</h2>
+    )
 }
