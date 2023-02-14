@@ -2,7 +2,7 @@ import React from "react";
 
 function About() {
   return (
-<div className="container">
+<div className="container mb-2">
     <div className="row">
         <h2 className="" >About</h2>
             <div className="">
