@@ -8,8 +8,8 @@ function Navbar(){
           <div id="links" class="navbar-nav">
             <a class="nav-item nav-link" href="">About <span class="sr-only"></span></a>
             <a class="nav-item nav-link" href="">Projects</a>
-            <a class="nav-item nav-link" href="">Resume</a>
             <a class="nav-item nav-link" href="">Contact</a>
+            <a class="nav-item nav-link" href="">Resume</a>
            </div>
   </nav>
 
