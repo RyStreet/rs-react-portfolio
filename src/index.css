@@ -1,3 +1,6 @@
-#nav{
-    background-color: rgba(204,255,203);
+body{
+    background-color: black;
+    color: white;
+    height: 100%;
+    margin: 0
 }

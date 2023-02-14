@@ -9,14 +9,14 @@ import Resume from "./components/Resume";
 
 function App() {
     return(
-    <main className="">
+    <body id="main" className="">
     <Navbar/>
     <About />
     <Projects /> 
     <Resume/>
     <Contact />
 
-    </main>
+    </body>
     )
 }
 
