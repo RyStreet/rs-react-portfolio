@@ -25,6 +25,7 @@ export default function Projects(){
                     <h5 className="card-title">Munchr</h5>
                     <p className="card-text">A food and drink pairing app</p>
                 </div>
+                
             </div>
             </a>
         </div>
