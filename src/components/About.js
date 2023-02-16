@@ -5,7 +5,7 @@ import "../styles/about.css"
 
 function About() {
   return (
-<div className="container mb-2 mt-3">
+<div id="about" className="container mb-2 mt-3">
     <div className="row">
         <h2 className="" >About</h2>
 
