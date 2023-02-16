@@ -4,3 +4,10 @@ body{
     height: 100%;
     margin: 0
 }
+:root {
+    --dark: #0F1020;
+    --dark-p: #2F195F;
+    --lav: #EFC3F5;
+    --white: #fff;
+    --hot: hotpink  
+}

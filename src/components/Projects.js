@@ -15,10 +15,12 @@ export default function Projects(){
     <div className="row" id="projectCards ">
         
         
-        <div className="col-sm-4 mb-2">
-        <a href="https://github.com/RyStreet/Munchr" target="_blank" rel="noopener noreferrer">
+     <div className="col-sm-4  mb-2">
+     <a href="https://github.com/RyStreet/Munchr" target="_blank" rel="noopener noreferrer">
             <div id="projectOne" className="card">
+            
                 <img id="imgOne" src={munchr} className="card-img-top" />
+                
                 <div className="card-body">
                     <h5 className="card-title">Munchr</h5>
                     <p className="card-text">A food and drink pairing app</p>

@@ -3,7 +3,7 @@ import "../styles/navbar.css"
 
 function Navbar(){
     return(
-    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <nav id="navTop" class=" navbar navbar-expand-lg navbar-light ">
         <a class="navbar-brand" id="name" href="#">Ryan Street</a>
           <div id="links" class="navbar-nav col-3 mr-2">
             <a class="nav-item nav-link" href="#about">About <span class="sr-only"></span></a>

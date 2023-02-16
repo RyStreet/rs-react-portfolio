@@ -1,8 +1,45 @@
-#projects{
-    color: black;
+:root {
+    --dark: #0F1020;
+    --dark-p: #2F195F;
+    --lav: #EFC3F5;
+    --white: #fff;
+    --hot: hotpink  
 }
+
+/* #projects{
+    color: black;
+    
+} */
 
 #projectTitle{
     color: white;
 }
 
+.card-body:hover{
+    background-color: var(--dark-p);
+    color: var(--lav);
+}
+
+.card-body{
+    background-color: var(--lav);
+    color: var(--dark-p);
+    
+}
+
+/* /* .card-text{
+    color: var(--lav);
+} */
+
+/* .card-title{
+    color: #EFC3F5;
+}  */
+
+
+
+/* .card-title:hover{
+    color: var(--dark-p);
+}
+
+.card-text:hover{
+    color: var(--dark-p);
+} */
