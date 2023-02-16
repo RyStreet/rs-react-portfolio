@@ -12,7 +12,7 @@ ___
   - [Tests](#tests)
 ___
   ## Description 
-  THis project is a personal portfolio utilizing react, JS, CSS and NodeJS
+  This project is a personal portfolio utilizing react, JS, CSS and NodeJS
 ___
   ## Installation 
   Visit this link to view the deployed portfolio:
