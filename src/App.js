@@ -6,14 +6,13 @@ import Navbar from "./components/Navbar";
 import Projects from "./components/Projects";
 import Resume from "./components/Resume";
 
+import PortfolioContainer from "./components/PortfolioContainer";
+
 
 function App() {
     return(
     <body id="main" className="">
-    <Navbar/>
-    <About />
-    <Projects /> 
-    <Contact />
+    <PortfolioContainer/>
     </body>
     )
 }
