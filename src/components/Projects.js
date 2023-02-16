@@ -15,7 +15,7 @@ export default function Projects(){
     <div className="row" id="projectCards ">
         
         
-     <div className="col-sm-4  mb-2">
+     <div className="col-sm-4  mb-4">
      <a href="https://github.com/RyStreet/Munchr" target="_blank" rel="noopener noreferrer">
             <div id="projectOne" className="card">
             
@@ -31,7 +31,7 @@ export default function Projects(){
         </div>
         
     
-        <div className="col-sm-4 mb-2">
+        <div className="col-sm-4 mb-4">
             <div id="projectTwo" className="card">
             <a href="https://github.com/RyStreet/tech-blog" target="_blank" rel="noopener noreferrer">
                 <img  src={techBlog} className="card-img-top" />
@@ -46,7 +46,7 @@ export default function Projects(){
        
 
         
-        <div className="col mb-2">
+        <div className="col mb-4">
             <div id="projectThree" className="card">
             <a href="https://github.com/RyStreet/GetATutor" target="_blank" rel="noopener noreferrer">
                 <img src={tutor} className="card-img-top" />
@@ -61,7 +61,7 @@ export default function Projects(){
 
     
         
-        <div className="col-sm-4 mb-2">
+        <div className="col-sm-4 mb-4">
             <div id="projectOne" className="card">
             <a href="https://github.com/RyStreet/readme-gen" target="_blank" rel="noopener noreferrer">
                 <img src={readme} className="card-img-top" />
@@ -75,7 +75,7 @@ export default function Projects(){
       
 
         
-        <div className="col-sm-4 mb-2">
+        <div className="col-sm-4 mb-4">
             <div id="projectOne" className="card">
             <a href="https://github.com/RyStreet/sql-employee-tracker" target="_blank" rel="noopener noreferrer">
                 <img src={tracker} className="card-img-top" />
@@ -87,7 +87,7 @@ export default function Projects(){
             </div>
         </div>
 
-        <div className="col-sm-4 mb-2">
+        <div className="col-sm-4 mb-4">
             <div id="projectOne" className="card">
             <a href="https://ryanstreetmedia.wordpress.com/blog/" target="_blank" rel="noopener noreferrer">
                 <img src={gorilla} className="card-img-top" />
