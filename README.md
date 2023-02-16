@@ -12,7 +12,10 @@ ___
   - [Tests](#tests)
 ___
   ## Description 
-  This project is a personal portfolio utilizing react, JS, CSS and NodeJS
+  This project is a personal portfolio utilizing react, JS, CSS and NodeJS.
+  
+  ![image](https://user-images.githubusercontent.com/112584082/219483904-4e8e7b76-b5cb-479a-891e-00de975cd079.png)
+
 ___
   ## Installation 
   Visit this link to view the deployed portfolio:
