@@ -27,7 +27,7 @@ export default function Projects(){
             </a>
         </div>
         
-        
+    
         <div className="col-sm-4 mb-2">
             <div id="projectTwo" className="card">
             <a href="https://github.com/RyStreet/tech-blog" target="_blank" rel="noopener noreferrer">
@@ -43,7 +43,7 @@ export default function Projects(){
        
 
         
-        <div className="col-sm-4 mb-2">
+        <div className="col mb-2">
             <div id="projectThree" className="card">
             <a href="https://github.com/RyStreet/GetATutor" target="_blank" rel="noopener noreferrer">
                 <img src={tutor} className="card-img-top" />
