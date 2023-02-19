@@ -43,7 +43,7 @@ function Form() {
 
 
 return(
-<div className="container col-md-8 mb-4" id="contactSection">
+<div style={{height: 800}} className="container col-md-8 mb-4" id="contactSection">
     <h2>Contact</h2>
     <div className="container  form-control" id="signUpForm">
       <form id="contactForm">

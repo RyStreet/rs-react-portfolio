@@ -9,3 +9,8 @@
 #footer{
     background-color: var(--lav);
 }
+
+#footer:hover{
+    background-color: var(--dark-p);
+    color: var(--lav);
+}

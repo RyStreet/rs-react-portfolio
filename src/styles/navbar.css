@@ -14,3 +14,7 @@
     margin-left: 2%;
 }
 
+#navTop:hover{
+    background-color: var(--dark-p);
+}
+
