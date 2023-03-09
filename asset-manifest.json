@@ -1,20 +1,21 @@
 {
   "files": {
     "main.css": "/rs-react-portfolio/static/css/main.607d694f.css",
-    "main.js": "/rs-react-portfolio/static/js/main.4162a845.js",
+    "main.js": "/rs-react-portfolio/static/js/main.b912cefc.js",
     "static/media/ReadMeGen.gif": "/rs-react-portfolio/static/media/ReadMeGen.1f96ff37eb5fd3ebd41b.gif",
     "static/media/sql-tracker.gif": "/rs-react-portfolio/static/media/sql-tracker.94559d5803d06005358f.gif",
     "static/media/guerrilla.png": "/rs-react-portfolio/static/media/guerrilla.1c70647bcbf5d47d807b.png",
     "static/media/munchr-png.png": "/rs-react-portfolio/static/media/munchr-png.c86befecccbf5ea21938.png",
     "static/media/headshot.jpg": "/rs-react-portfolio/static/media/headshot.42b086da3cefe20952d0.jpg",
     "static/media/tech-blog.png": "/rs-react-portfolio/static/media/tech-blog.8f9323a16b09e2898196.png",
+    "static/media/gitfund.JPG": "/rs-react-portfolio/static/media/gitfund.cd5c2f7dac665725bf53.JPG",
     "static/media/tutor.JPG": "/rs-react-portfolio/static/media/tutor.458e3fd6cf325335873f.JPG",
     "index.html": "/rs-react-portfolio/index.html",
     "main.607d694f.css.map": "/rs-react-portfolio/static/css/main.607d694f.css.map",
-    "main.4162a845.js.map": "/rs-react-portfolio/static/js/main.4162a845.js.map"
+    "main.b912cefc.js.map": "/rs-react-portfolio/static/js/main.b912cefc.js.map"
   },
   "entrypoints": [
     "static/css/main.607d694f.css",
-    "static/js/main.4162a845.js"
+    "static/js/main.b912cefc.js"
   ]
 }
