@@ -6,6 +6,7 @@ import techBlog from "../images/tech-blog.png"
 import readme from "../images/ReadMeGen.gif"
 import tracker from "../images/sql-tracker.gif"
 import gorilla from "../images/guerrilla.png"
+import gitfund from "../images/gitfund.JPG"
 
 export default function Projects(){
     return( 
@@ -33,11 +34,11 @@ export default function Projects(){
     
         <div className="col-sm-4 mb-4">
             <div id="projectTwo" className="card">
-            <a href="https://github.com/RyStreet/tech-blog" target="_blank" rel="noopener noreferrer">
-                <img  src={techBlog} className="card-img-top" />
+            <a href="https://github.com/RyStreet/git-fund" target="_blank" rel="noopener noreferrer">
+                <img  src={gitfund} className="card-img-top" />
                 <div className="card-body">
-                    <h5 className="card-title">Tech Blog</h5>
-                    <p className="card-text">A CMS style blog utilizing the MVC paradigm</p>
+                    <h5 className="card-title">Git-Fund</h5>
+                    <p className="card-text">A crowdfunding platform for coders!</p>
                 </div>
                 </a>
             </div>
