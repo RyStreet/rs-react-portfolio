@@ -18,7 +18,7 @@ ___
 
 ___
   ## Installation 
-  Visit this link to view the deployed portfolio:
+  Visit this link to view the deployed portfolio: https://rystreet.github.io/rs-react-portfolio/
 ___
   ## Usage 
   
