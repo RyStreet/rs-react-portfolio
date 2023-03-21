@@ -1,5 +1,8 @@
 import React, {useState} from "react";
 import { validateEmail } from "../utils/helpers";
+import linkedIn from "../images/linkedin.png";
+import github from "../images/github-logo2.png"
+import "../styles/contact.css"
 
 function Form() {
 
@@ -43,9 +46,20 @@ function Form() {
 
 
 return(
-<div style={{height: 800}} className="container col-md-8 mb-4" id="contactSection">
-    <h2>Contact</h2>
-    <div className="container  form-control" id="signUpForm">
+<div style={{height: 800}} className=" container-fluid  mb-4 " align="center" id="contactSection">
+    <h2 className="mt-4">Contact</h2>
+    <h3>832-477-2224</h3>
+    <a  href="mailto:ryanstreet122@gmail.com">ryanstreet122@gmail.com</a>
+    <br></br>
+
+    <div id="socialContainer" className="justify-space-between">
+    <a href="https://www.linkedin.com/in/ryan-street-media/" target="_blank" rel="noopener noreferrer"><img id="linkedin" className="col-4 img-thumbnail mt-4"  src={linkedIn}></img></a>
+      
+    
+    
+    <a href="https://github.com/RyStreet" target="_blank" rel="noopener noreferrer" ><img  id="github" className="col-4 img-thumbnail mt-4" src={github} ></img></a>
+    </div>
+     {/* <div className="container  form-control" id="signUpForm">
       <form id="contactForm">
         <label for="name">Name:</label>
         <input id="user" name="name" value={name} onChange={handleInputChange} className="form-control"></input>
@@ -72,7 +86,7 @@ return(
         <div>
           <p className=" mt-2 error-text">{validMessage}</p>
         </div>
-      )}
+      )}  */}
     </div>
 
     

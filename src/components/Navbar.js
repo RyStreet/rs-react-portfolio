@@ -10,7 +10,7 @@ function Navbar({currentPage, handlePageChange}){
             <a class="nav-item nav-link link-light" href="#about" onClick={()=>handlePageChange("About")}>About <span class="sr-only"></span></a>
             <a class="nav-item nav-link link-light" href="#projects" onClick={()=>handlePageChange("Projects")}>Projects</a>
             <a class="nav-item nav-link link-light" href="#contactSection" onClick={()=>handlePageChange("Contact")}>Contact</a>
-            <a class="nav-item nav-link link-light" href="https://www.linkedin.com/in/ryan-street-media/" target="_blank" rel="noopener noreferrer">Resume</a>
+            {/* <a class="nav-item nav-link link-light" href="#resume" onClick={()=>handlePageChange("Resume")}>Resume</a> */}
            </div>
   </nav>
 

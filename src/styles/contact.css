@@ -1,3 +1,25 @@
 #message{
     height: 100px;
 }
+
+#linkedin{
+    width: 200px;
+    height: 200px;
+    background-color: var(--dark)
+}
+#linkedin:hover{
+    width: 200px;
+    height: 200px;
+    background-color: var(--lav)
+}
+
+#github{
+    width: 250px;
+    height: 200px;
+    background-color: var(white)
+}
+#github:hover{
+    width: 250px;
+    height: 200px;
+    background-color: var(--lav)
+}
