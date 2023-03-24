@@ -17,8 +17,27 @@ function About() {
                     writing samples. Interested in reaching out? Don't hesitate to
                     contact me. Thanks for visiting my site!
                 </p>
+                <br></br>
+               
                 
             </div>
+            <div className="container">
+                <div className="row justify-content-center">
+            <p className="col-md-6">
+                
+
+                Languages: HTML, CSS, JavaScript
+                <br></br>
+                <br></br>
+
+                Tools: SQL, MySQL, Mongo, Express, React, Node,  GitHub, Bootstrap, Tailwind, Semantic, Wordpress, Wix, Google Analytics, Adobe Creative Suite, Canva, Office Suite, Slack
+                <br ></br>
+                <br></br>
+                Frameworks: OOP, MERN, MVC, RESTful API, Agile
+
+                </p>
+                </div>
+                </div>
             <div className="container"> 
             <div className="row justify-content-center">
             <img id="ryanPhoto" className="col-4 img-thumbnail mt-4" src={headshot}></img>

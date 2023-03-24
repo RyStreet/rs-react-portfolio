@@ -7,6 +7,7 @@ import readme from "../images/ReadMeGen.gif"
 import tracker from "../images/sql-tracker.gif"
 import gorilla from "../images/guerrilla.png"
 import gitfund from "../images/gitfund.JPG"
+import beSomeone from "../images/bes.png"
 
 export default function Projects(){
     return( 
@@ -64,11 +65,11 @@ export default function Projects(){
         
         <div className="col-sm-4 mb-4">
             <div id="projectOne" className="card">
-            <a href="https://github.com/RyStreet/readme-gen" target="_blank" rel="noopener noreferrer">
-                <img src={readme} className="card-img-top" />
+            <a href="https://www.besomeone.vip" target="_blank" rel="noopener noreferrer">
+                <img src={beSomeone} className="card-img-top" />
                 <div className="card-body">
-                    <h5 className="card-title">README Generator</h5>
-                    <p className="card-text">Create READMEs directly from the CLI</p>
+                    <h5 className="card-title">BeSomeone.vip</h5>
+                    <p className="card-text">Wix website w/ custom HTML for Ed-Tech Startup</p>
                 </div>
             </a>
             </div>
