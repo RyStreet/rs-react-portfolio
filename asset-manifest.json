@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/rs-react-portfolio/static/css/main.c5c7035e.css",
-    "main.js": "/rs-react-portfolio/static/js/main.eb8a6484.js",
+    "main.css": "/rs-react-portfolio/static/css/main.258ca005.css",
+    "main.js": "/rs-react-portfolio/static/js/main.9851df0d.js",
     "static/media/ReadMeGen.gif": "/rs-react-portfolio/static/media/ReadMeGen.1f96ff37eb5fd3ebd41b.gif",
     "static/media/sql-tracker.gif": "/rs-react-portfolio/static/media/sql-tracker.94559d5803d06005358f.gif",
     "static/media/guerrilla.png": "/rs-react-portfolio/static/media/guerrilla.1c70647bcbf5d47d807b.png",
@@ -15,11 +15,11 @@
     "static/media/linkedin.png": "/rs-react-portfolio/static/media/linkedin.ef71257724c620e7c1d6.png",
     "static/media/github-logo2.png": "/rs-react-portfolio/static/media/github-logo2.274024c4c788235cd5eb.png",
     "index.html": "/rs-react-portfolio/index.html",
-    "main.c5c7035e.css.map": "/rs-react-portfolio/static/css/main.c5c7035e.css.map",
-    "main.eb8a6484.js.map": "/rs-react-portfolio/static/js/main.eb8a6484.js.map"
+    "main.258ca005.css.map": "/rs-react-portfolio/static/css/main.258ca005.css.map",
+    "main.9851df0d.js.map": "/rs-react-portfolio/static/js/main.9851df0d.js.map"
   },
   "entrypoints": [
-    "static/css/main.c5c7035e.css",
-    "static/js/main.eb8a6484.js"
+    "static/css/main.258ca005.css",
+    "static/js/main.9851df0d.js"
   ]
 }
