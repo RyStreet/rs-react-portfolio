@@ -18,3 +18,6 @@
     background-color: var(--dark-p);
 }
 
+.nav-item:hover{
+color: var(--lav);
+}

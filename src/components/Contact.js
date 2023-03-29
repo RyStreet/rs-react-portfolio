@@ -46,7 +46,7 @@ function Form() {
 
 
 return(
-<div style={{height: 800}} className=" container-fluid  mb-4 " align="center" id="contactSection">
+<div style={{height: "85vh"}} className=" container-fluid  mb-4 " align="center" id="contactSection">
     <h2 className="mt-4">Contact</h2>
     <h3>832-477-2224</h3>
     <a  href="mailto:ryanstreet122@gmail.com">ryanstreet122@gmail.com</a>

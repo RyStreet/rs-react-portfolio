@@ -25,7 +25,8 @@ export default function Projects(){
                 
                 <div className="card-body">
                     <h5 className="card-title">Munchr</h5>
-                    <p className="card-text">A food and drink pairing app</p>
+                    <p className="card-text">A food and drink pairing app </p>
+                    <p>JavaScript, HTML, CSS, Tailwind, MealDB APIs</p>
                 </div>
                 
             </div>
@@ -40,6 +41,7 @@ export default function Projects(){
                 <div className="card-body">
                     <h5 className="card-title">Git-Fund</h5>
                     <p className="card-text">A crowdfunding platform for coders!</p>
+                    <p>MongoDB, Express, React, Node, Apollo, Semantic UI</p>
                 </div>
                 </a>
             </div>
@@ -55,6 +57,7 @@ export default function Projects(){
                 <div className="card-body">
                     <h5 className="card-title">GetATutor</h5>
                     <p className="card-text">Find your next great tutor with this app</p>
+                    <p>RESTful, Node, Express, MySQL, Handlebars.js, Bootstrap</p>
                 </div>
                 </a>
             </div>

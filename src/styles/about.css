@@ -17,3 +17,11 @@
     height: 300px;
     background-color: var(--lav)
 }
+
+.card:hover{
+    background-color: var(--lav);
+}
+
+#aboutP:hover{
+    color: var(--lav)
+}
