@@ -16,6 +16,31 @@ export default function Projects(){
 
     <div className="row" id="projectCards ">
         
+    <div className="col-sm-4 mb-4">
+            <div id="projectTwo" className="card">
+            <a href="https://github.com/RyStreet/git-fund" target="_blank" rel="noopener noreferrer">
+                <img  src={gitfund} className="card-img-top" />
+                <div className="card-body">
+                    <h5 className="card-title">Git-Fund</h5>
+                    <p className="card-text">A crowdfunding platform for coders!</p>
+                    <p>MongoDB, Express, React, Node, Apollo, Semantic UI</p>
+                </div>
+                </a>
+            </div>
+            
+        </div>
+
+        <div className="col-sm-4 mb-4">
+            <div id="projectOne" className="card">
+            <a href="https://www.besomeone.vip" target="_blank" rel="noopener noreferrer">
+                <img src={beSomeone} className="card-img-top" />
+                <div className="card-body">
+                    <h5 className="card-title">BeSomeone.vip</h5>
+                    <p className="card-text">Wix website w/ custom HTML for Ed-Tech Startup</p>
+                </div>
+            </a>
+            </div>
+        </div>
         
      <div className="col-sm-4  mb-4">
      <a href="https://github.com/RyStreet/Munchr" target="_blank" rel="noopener noreferrer">
@@ -34,19 +59,7 @@ export default function Projects(){
         </div>
         
     
-        <div className="col-sm-4 mb-4">
-            <div id="projectTwo" className="card">
-            <a href="https://github.com/RyStreet/git-fund" target="_blank" rel="noopener noreferrer">
-                <img  src={gitfund} className="card-img-top" />
-                <div className="card-body">
-                    <h5 className="card-title">Git-Fund</h5>
-                    <p className="card-text">A crowdfunding platform for coders!</p>
-                    <p>MongoDB, Express, React, Node, Apollo, Semantic UI</p>
-                </div>
-                </a>
-            </div>
-            
-        </div>
+        
        
 
         
@@ -66,17 +79,7 @@ export default function Projects(){
 
     
         
-        <div className="col-sm-4 mb-4">
-            <div id="projectOne" className="card">
-            <a href="https://www.besomeone.vip" target="_blank" rel="noopener noreferrer">
-                <img src={beSomeone} className="card-img-top" />
-                <div className="card-body">
-                    <h5 className="card-title">BeSomeone.vip</h5>
-                    <p className="card-text">Wix website w/ custom HTML for Ed-Tech Startup</p>
-                </div>
-            </a>
-            </div>
-        </div>
+       
       
 
         
