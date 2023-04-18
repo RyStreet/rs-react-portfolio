@@ -15,6 +15,10 @@
     color: white;
 }
 
+.card{
+    height: 100%;
+}
+
 .card-body:hover{
     background-color: var(--dark-p);
     color: var(--lav);
@@ -25,6 +29,8 @@
     color: var(--dark-p);
     
 }
+
+
 
 /* /* .card-text{
     color: var(--lav);

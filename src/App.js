@@ -1,4 +1,5 @@
-import React from "react";
+import React, { useCallback } from "react"; 
+import Particles from "react-particles";
 
 import About from "./components/About";
 import Contact from "./components/Contact";
@@ -11,8 +12,9 @@ import PortfolioContainer from "./components/PortfolioContainer";
 
 
 function App() {
+
     return(
-    
+
     <PortfolioContainer/>
     
     )
